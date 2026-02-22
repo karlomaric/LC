@@ -1,0 +1,10 @@
+node_modules/
+playwright-report/
+test-results/
+
+# Screenshots (generated during test runs)
+*.png
+
+# OS
+.DS_Store
+Thumbs.db
